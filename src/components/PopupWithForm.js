@@ -16,7 +16,6 @@ function PopupWithForm({
         name={name}
         className="popup__container"
         onSubmit={onSubmit}
-        noValidate
       >
         <h2 className="popup__title">{title}</h2>
         {children}

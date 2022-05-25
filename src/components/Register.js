@@ -3,11 +3,7 @@ import { Link } from "react-router-dom";
 
 const Register = ({ onRegister }) => {
 
-  const initialData = {
-    email: '',
-    password: '',
-  }
-  const [profileData, setProfileData] = useState({initialData});
+  const [profileData, setProfileData] = useState({});
 
   function handleChange(e) {
     const { name, value } = e.target;
