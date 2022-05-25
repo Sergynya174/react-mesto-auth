@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Sergynya174/react-mesto-auth/static/css/main.d75de9a3.css",
-    "main.js": "/Sergynya174/react-mesto-auth/static/js/main.51d02216.js",
-    "static/js/787.5530211c.chunk.js": "/Sergynya174/react-mesto-auth/static/js/787.5530211c.chunk.js",
-    "static/media/logo.svg": "/Sergynya174/react-mesto-auth/static/media/logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
-    "static/media/like.svg": "/Sergynya174/react-mesto-auth/static/media/like.0bc60938ca96a5dcae18.svg",
-    "static/media/del.svg": "/Sergynya174/react-mesto-auth/static/media/del.cbc09a894bdd4c956365.svg",
-    "static/media/like_black.svg": "/Sergynya174/react-mesto-auth/static/media/like_black.fe17a515669479b1e649.svg",
-    "index.html": "/Sergynya174/react-mesto-auth/index.html",
-    "static/media/ruchka.svg": "/Sergynya174/react-mesto-auth/static/media/ruchka.8667ac4a523e8fc42e59.svg",
-    "static/media/crestic.svg": "/Sergynya174/react-mesto-auth/static/media/crestic.d86bb2edc2f6eadb96b7.svg",
-    "static/media/Close_Icon.svg": "/Sergynya174/react-mesto-auth/static/media/Close_Icon.b793e07c3f4c19e26c11.svg",
-    "main.d75de9a3.css.map": "/Sergynya174/react-mesto-auth/static/css/main.d75de9a3.css.map",
-    "main.51d02216.js.map": "/Sergynya174/react-mesto-auth/static/js/main.51d02216.js.map",
-    "787.5530211c.chunk.js.map": "/Sergynya174/react-mesto-auth/static/js/787.5530211c.chunk.js.map"
+    "main.css": "./static/css/main.1cfab837.css",
+    "main.js": "./static/js/main.15da8949.js",
+    "static/js/787.5530211c.chunk.js": "./static/js/787.5530211c.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
+    "static/media/like.svg": "./static/media/like.0bc60938ca96a5dcae18.svg",
+    "static/media/del.svg": "./static/media/del.cbc09a894bdd4c956365.svg",
+    "static/media/like_black.svg": "./static/media/like_black.fe17a515669479b1e649.svg",
+    "index.html": "./index.html",
+    "static/media/ruchka.svg": "./static/media/ruchka.8667ac4a523e8fc42e59.svg",
+    "static/media/crestic.svg": "./static/media/crestic.d86bb2edc2f6eadb96b7.svg",
+    "static/media/Close_Icon.svg": "./static/media/Close_Icon.b793e07c3f4c19e26c11.svg",
+    "main.1cfab837.css.map": "./static/css/main.1cfab837.css.map",
+    "main.15da8949.js.map": "./static/js/main.15da8949.js.map",
+    "787.5530211c.chunk.js.map": "./static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d75de9a3.css",
-    "static/js/main.51d02216.js"
+    "static/css/main.1cfab837.css",
+    "static/js/main.15da8949.js"
   ]
 }
