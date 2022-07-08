@@ -7,8 +7,8 @@ function Header({ email, onSignOut }) {
   const location = useLocation();
 
   return (
-    <header className="header" href='/'>
-      <a className="header__link">
+    <header className="header">
+      <a className="header__link" href='/'>
         <img className="header__logo" src={logo} alt="Логотип" />
       </a>
       {location.pathname === "/" && (
