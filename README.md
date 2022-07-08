@@ -26,13 +26,5 @@
 * Позиционирование
 * Псевдоклассы
 * Webpack
-Установка и запуск
-npm i - установка зависимостей
 
-npm run start - запуск сервера
-
-npm run build - запуск сборки проекта
-
-npm run deploy - публикация сборки на github pages
-
-### [Ссылка проекта]()
+### [Ссылка проекта](https://sergynya174.github.io/react-mesto-auth/)
