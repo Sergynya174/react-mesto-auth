@@ -27,4 +27,12 @@
 * Псевдоклассы
 * Webpack
 
+## Инструкция по установке
+```
+git clone 
+cd react-mesto-auth
+npm install
+npm start
+```
+
 ### [Ссылка проекта](https://sergynya174.github.io/react-mesto-auth/)
